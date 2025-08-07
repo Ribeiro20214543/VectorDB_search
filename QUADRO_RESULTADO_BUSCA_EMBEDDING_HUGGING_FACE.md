@@ -1,4 +1,4 @@
-# ** Quadro de modelos retornados na pesquisa na plataforma Hugging Face **
+# **Quadro de modelos retornados na pesquisa na plataforma Hugging Face**
 
 - **Coleta realizada em**: 06 de agosto de 2025
 - **Filtros aplicados:**
