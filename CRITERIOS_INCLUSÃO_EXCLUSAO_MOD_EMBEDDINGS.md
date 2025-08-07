@@ -1,3 +1,8 @@
+
+# **Critérios de inclusão e exclusão para seleção de modelos de embedding**
+
+
+
 | Critérios de Inclusão                                                                                                                              | Critérios de Exclusão                                                                                                                    |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | I - Compatibilidade com a linguagem Python                                                                                                        | I - Incompatibilidade com a linguagem Python                                                                                             |
